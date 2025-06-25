@@ -5,6 +5,7 @@ A mobile-first app to help London commuters avoid buses that curtail (terminate 
 
 ---
 
+![BusRadar Wireframe](./public/busradarwireframe.jpg)
 
 
 ---
